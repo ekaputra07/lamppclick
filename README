@@ -7,9 +7,9 @@ LamppClick is a small piece of python script to display a simple GUI version of 
 3. Move or Copy this folder to /opt folder of your Ubuntu(linux)
 4. Change the file permission of "lampp.py" to executable, "chmod +x lampp.py"
 5. Create a symlink of lampp.py to your desktop.
-6. To use it, just click the lampp.py in on your desktop, and new pop up araise, just click RUN.
-7. That's it, I hope it help.
+6. To use it, just click the lampp.py on your desktop, and new pop up araise, just click RUN.
+7. That's it, I hope it helps.
 
 == NOTE ==
-This script will working default if your lampp installed at "/opt/lampp", otherise you need to edit the path of lampp instalation in lampp.py
+This script will working as default if your lampp installed at "/opt/lampp", otherise you need to edit the path of lampp instalation in lampp.py.
 
